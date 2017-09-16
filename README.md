@@ -1,2 +1,2 @@
 # py_rep
-Things I did in Python(2.7)
+collection of projects done in Python(2.7)
